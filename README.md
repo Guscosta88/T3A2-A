@@ -89,12 +89,43 @@
 
 ## **R5 - Wireframes for multiple standard screen sizes, created using industry standard software:**
 
-- Answer
+- **Low Fidelity Wireframe:**
+
+- For the Low-fidelity Wireframe we had a first hand sketch of the layout to visualise how the pages and features would be organized.
+
+![Low Fidelity Wireframe](./images/low_fidelity_Wireframe.jpg)
+
+- **Low Fidelity Wireframe:**
+
+- We have decided to use a Design tool called Figma to create our High-fidelity Wireframe, Layouts and Prototypes showing the flow and sequence of pages, buttons and design for the 3 standard screen sizes, desktop 1440x1024, tablet 834x1194, mobile 390x844.
+
+- **Mobile Screen size 390x844:**
+
+- Find in the [Prototype - Mobile 390x844](https://www.figma.com/proto/8UKOCYP5rP6o3uEvtZ8zN7/T3A2-A---Wireframe?node-id=20%3A1551&scaling=scale-down&page-id=20%3A1307&starting-point-node-id=20%3A1551) a link to the Mobile version prototype containing all the pages, features and the flow between pages, you can click the buttons and it will give you a preview of the app's flow.
+
+    ![Low Fidelity Wireframe](./images/mobile.jpg)
+
+- **Tablet Screen size 834x1194:**
+
+- Find in the [Prototype - Tablet 834x1194](https://www.figma.com/proto/8UKOCYP5rP6o3uEvtZ8zN7/T3A2-A---Wireframe?node-id=20%3A1821&scaling=scale-down&page-id=20%3A1306&starting-point-node-id=20%3A1821) a link to the Tablet version prototype containing all the pages, features and the flow between pages, you can click the buttons and it will give you a preview of the app's flow.
+
+    ![Low Fidelity Wireframe](./images/tablet.jpg)
+
+- **Desktop Screen size 1440x1024:**
+
+- Find in the [Prototype - Desktop 1440x1024](https://www.figma.com/proto/8UKOCYP5rP6o3uEvtZ8zN7/T3A2-A---Wireframe?node-id=20%3A2089&scaling=scale-down&page-id=20%3A1305&starting-point-node-id=20%3A2089) a link to the Desktop version prototype containing all the pages, features and the flow between pages, you can click the buttons and it will give you a preview of the app's flow.
+
+    ![Low Fidelity Wireframe](./images/desktop.jpg)
 
 
-    ![sample image](./images/sample.png)
 
-    [sample reference](referenceURL)
+
+
+    
+
+    
+
+    [Wireframe](https://www.figma.com/file/8UKOCYP5rP6o3uEvtZ8zN7/T3A2-A---Wireframe?node-id=0%3A1&t=YRxZrLkM0EeHI3zH-1)
 
 ## **R6 - Screenshots of your Trello board throughout the duration of the project:**
 
