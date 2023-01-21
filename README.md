@@ -59,7 +59,7 @@
 
 - The Data flow diagram process chosen for this application is known as Gane & Sarson and it is commonly used for information systems. On the Barbecue Planner App the dataflow will start by an external entity called participant, the participant info is processed and added to the participants database, this data is retrieved from the database and displayed on the app, the user can also choose to edit or delete this information, the grocery list and the drinks list retrieves data from the participants database as well as from the default entered items in the drinks and foods database, process the data and it displays it.
 
-    ![Data Flow Diagram](./images/Data_flow_diagram.svg)
+    ![Data Flow Diagram](./images/Data_flow_diagram_v2.svg)
 
     -The ERD (Entity Relationship Diagram) Bellow represents the tables and items in the database and how they interact, so we can have a clearer understanding of which of these data is being retrieved and processed in the dataflow diagram. 
 
@@ -130,6 +130,8 @@
     ![Trello Day two](./images/002_Trello.jpg)
 
     ![Trello Day three](./images/003_Trello.jpg)
+
+    ![Trello Day three](./images/004_Trello.jpg)
 
     [Trello Board Link](https://trello.com/b/rLoXMfdJ/t3a2-a)
     
