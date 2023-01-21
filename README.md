@@ -57,7 +57,7 @@
 
 ## **R2 - Dataflow Diagram:**
 
-- The Data flow diagram process chosen for this application is known as Gane & Sarson and it is commonly used for information systems. On the Barbecue Planner App the dataflow will start by an external entity called participant, the participant info is processed and added to the participants database, this data is retrieved from the database and displayed on the app, the user can also choose to edit or delete this information, the grocery list and the drinks list retrieves data from the participants database as well as from the default entered items in the drinks and foods database, process the data and it displays it.
+- The Data flow diagram process chosen for this application is known as Gane & Sarson and it is commonly used for information systems. On the Barbecue Planner App the dataflow will start by an external entity called User, the User is able to add participants info that are processed and added to the participants database, this data is retrieved from the database and displayed on the app, the user can also choose to edit or delete this information, the grocery list and the drinks list retrieves data from the participants CRUD database as well as from a previously seeded and never changing drinks and foods database, process the data and displays it.
 
     ![Data Flow Diagram](./images/Data_flow_diagram_v2.svg)
 
