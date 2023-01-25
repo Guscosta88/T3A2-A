@@ -1,4 +1,4 @@
-# **GusCosta_T3A2_A**
+# **T3A2_A**
 
 # **Table of contents:**
 
