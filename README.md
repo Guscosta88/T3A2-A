@@ -1,4 +1,4 @@
-# **T3A2_A**
+# **BBQ_Planner_T3A2_A**
 
 # **Table of contents:**
 
