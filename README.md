@@ -1,4 +1,4 @@
-# **GusCosta_T3A2_A**
+# **BBQ_Planner_T3A2_A**
 
 #### **BBQ Planner Documentation Github link:**
 [https://github.com/Guscosta88/T3A2-A](https://github.com/Guscosta88/T3A2-A)
