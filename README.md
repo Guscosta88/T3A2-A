@@ -5,18 +5,21 @@
 
 # **Table of contents:**
 
-- [**Table of contents**](#table-of-contents)
-    - [**R1 - Description of your website, including:**](#r1---description-of-your-website-including)
-
-    - [**R2 - Dataflow Diagram:**](#r2---dataflow-diagram)
-
-    - [**R3 - Application Architecture Diagram:**](#r3---application-architecture-diagram)
-
-    - [**R4 - User Stories:**](#r4---user-stories)
-
-    - [**R5 - Wireframes for multiple standard screen sizes, created using industry standard software:**](#r5---wireframes-for-multiple-standard-screen-sizes-created-using-industry-standard-software)
-
-    - [**R6 - Screenshots of your Trello board throughout the duration of the project:**](#r6---screenshots-of-your-trello-board-throughout-the-duration-of-the-project)
+- [**BBQ\_Planner\_T3A2\_A**](#bbq_planner_t3a2_a)
+      - [**BBQ Planner Documentation Github link:**](#bbq-planner-documentation-github-link)
+- [**Table of contents:**](#table-of-contents)
+  - [**R1 - Description of your website, including:**](#r1---description-of-your-website-including)
+  - [**R2 - Dataflow Diagram:**](#r2---dataflow-diagram)
+  - [**R3 - Application Architecture Diagram:**](#r3---application-architecture-diagram)
+  - [**R4 - User Stories:**](#r4---user-stories)
+  - [**R5 - Wireframes for multiple standard screen sizes, created using industry standard software:**](#r5---wireframes-for-multiple-standard-screen-sizes-created-using-industry-standard-software)
+  - [**R6 - Screenshots of your Trello board throughout the duration of the project:**](#r6---screenshots-of-your-trello-board-throughout-the-duration-of-the-project)
+  - [**Day One:**](#day-one)
+  - [**Day Two:**](#day-two)
+  - [**Day Three:**](#day-three)
+  - [**Day Four:**](#day-four)
+  - [**Day Five:**](#day-five)
+  - [**Trello Board Part A - Weblink:**](#trello-board-part-a---weblink)
 
 
 ## **R1 - Description of your website, including:**
@@ -73,22 +76,10 @@
     [Dataflow Diagram](https://www.lucidchart.com/pages/data-flow-diagram/how-to-make-a-dfd)
 
 ## **R3 - Application Architecture Diagram:**
-
-- Answer
-
-
-    ![sample image](./images/sample.png)
-
-    [sample reference](referenceURL)
+![Application Architecture Diagram](./images/AAD.png)
 
 ## **R4 - User Stories:**
-
-- Answer
-
-
-    ![sample image](./images/sample.png)
-
-    [sample reference](referenceURL)
+![User Stories Map](./images/User%20Story%20Map.png)
 
 ## **R5 - Wireframes for multiple standard screen sizes, created using industry standard software:**
 
