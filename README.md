@@ -1,5 +1,8 @@
 # **GusCosta_T3A2_A**
 
+#### **BBQ Planner Documentation Github link:**
+[https://github.com/Guscosta88/T3A2-A](https://github.com/Guscosta88/T3A2-A)
+
 # **Table of contents:**
 
 - [**Table of contents**](#table-of-contents)
@@ -121,17 +124,27 @@
 
 ## **R6 - Screenshots of your Trello board throughout the duration of the project:**
 
-- Answer
+## **Day One:**
 
+![Trello Day one](./images/001_Trello.jpg)
 
+## **Day Two:**
 
-    ![Trello Day one](./images/001_Trello.jpg)
+![Trello Day two](./images/002_Trello.jpg)
 
-    ![Trello Day two](./images/002_Trello.jpg)
+## **Day Three:**
 
-    ![Trello Day three](./images/003_Trello.jpg)
+![Trello Day three](./images/003_Trello.jpg)
 
-    ![Trello Day three](./images/004_Trello.jpg)
+## **Day Four:**
 
-    [Trello Board Link](https://trello.com/b/rLoXMfdJ/t3a2-a)
+![Trello Day Four](./images/004_Trello.jpg)
+
+## **Day Five:**
+
+![Trello Day Five](./images/005_Trello.jpg)
+
+## **Trello Board Part A - Weblink:**
+
+[https://trello.com/invite/b/rLoXMfdJ/ATTIb8a72452a5bbaf5ffa1fb7cbc50caf1eEDBA7478/t3a2-a](https://trello.com/invite/b/rLoXMfdJ/ATTIb8a72452a5bbaf5ffa1fb7cbc50caf1eEDBA7478/t3a2-a)
     
